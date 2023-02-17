@@ -1,2 +1,2 @@
 # R-Project
-A warehouse for saving R language project code.
+A warehouse for Jiajie Wang to save R language project code.
